@@ -1,0 +1,73 @@
+# 🧠 Malla Didáctica de Medicina – UASD
+
+Este repositorio contiene la malla didáctica de la carrera de Medicina de la Universidad Autónoma de Santo Domingo (UASD), organizada por semestres e incluyendo los prerrequisitos de cada asignatura.
+
+---
+
+## 📘 Primer Semestre – Pre-Médica
+
+| Asignatura                             | Créditos | Prerrequisitos                          |
+|----------------------------------------|----------|------------------------------------------|
+| Biología Básica                        | 2        | Ninguno                                   |
+| Laboratorio de Biología Básica        | 1        | Biología Básica                          |
+| Orientación Institucional             | 1        | Ninguno                                   |
+| Introducción a la Filosofía           | 3        | Ninguno                                   |
+| Física Básica                          | 4        | Ninguno                                   |
+| Lengua Española Básica I              | 3        | Ninguno                                   |
+| Matemática Básica                     | 4        | Ninguno                                   |
+| Química Básica                         | 3        | Ninguno                                   |
+| Introducción a las Ciencias Sociales  | 3        | Ninguno                                   |
+
+📌 **Total de créditos:** 24
+
+---
+
+## 📘 Segundo Semestre – Pre-Médica
+
+| Asignatura                             | Créditos | Prerrequisitos                          |
+|----------------------------------------|----------|------------------------------------------|
+| Biofísica                              | 2        | Física Básica, Biología Básica           |
+| Laboratorio de Biofísica               | 1        | Biofísica                                |
+| Educación Física                       | 2        | Ninguno                                   |
+| Fundamentos de Historia Social Dominicana | 3    | Ninguno                                   |
+| Lengua Española Básica II             | 3        | Lengua Española Básica I                |
+| Fundamentos del Desarrollo Cognitivo   | 3        | Ninguno                                   |
+| Química Orgánica                       | 3        | Química Básica                           |
+| Vida en Comunidad                      | 3        | Introducción a las Ciencias Sociales     |
+
+📌 **Total de créditos:** 20
+
+---
+
+## 📘 Tercer Semestre – Pre-Médica
+
+| Asignatura                             | Créditos | Prerrequisitos                          |
+|----------------------------------------|----------|------------------------------------------|
+| Estructuras y Sistemas Anatómicos      | 3        | Biología Básica y su laboratorio         |
+| Laboratorio de Estructuras y Sistemas Anatómicos | 1 | Estructuras y Sistemas Anatómicos |
+| Fundamentos de Ética General           | 3        | Introducción a la Filosofía             |
+| Antropología Aplicada a la Medicina    | 3        | Introducción a las Ciencias Sociales     |
+| Historia de la Cultura Universal       | 2        | Fundamentos de Historia Social Dominicana |
+| Inglés Técnico en Salud I              | 4        | Lengua Española Básica II               |
+| Introducción a la Informática          | 4        | Matemática Básica                        |
+| Bases para el Análisis Biométrico      | 4        | Matemática Básica                        |
+
+📌 **Total de créditos:** 24
+
+---
+
+## 📘 Cuarto Semestre – Pre-Médica
+
+| Asignatura                             | Créditos | Prerrequisitos                          |
+|----------------------------------------|----------|------------------------------------------|
+| Fisiología Celular                     | 3        | Química Orgánica, Biología, Biofísica   |
+| Bases Histológicas del Organismo       | 3        | Biología, Laboratorio de Biología        |
+| Laboratorio de Bases Histológicas      | 1        | Bases Histológicas del Organismo         |
+| Inglés Técnico en Salud II             | 4        | Inglés Técnico en Salud I                |
+| Salud y Conducta Humana                | 2        | Ciencias Sociales                        |
+| Laboratorio de Salud y Conducta Humana | 1        | Salud y Conducta Humana                  |
+| Introducción a la Metodología de la Investigación en Salud | 3 | Ninguno                      |
+| Fundamentos de Soporte Vital Básico    | 3        | Anatomía                                  |
+| Tecnologías de Información e Investigación en Salud | 3 | Informática                    |
+
+📌 **Total de créditos:** 23
