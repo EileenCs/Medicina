@@ -1,73 +1,114 @@
-# 🧠 Malla Didáctica de Medicina – UASD
-
-Este repositorio contiene la malla didáctica de la carrera de Medicina de la Universidad Autónoma de Santo Domingo (UASD), organizada por semestres e incluyendo los prerrequisitos de cada asignatura.
 
 ---
 
-## 📘 Primer Semestre – Pre-Médica
+### 📘 Primer Semestre – Pre-Médica
 
-| Asignatura                             | Créditos | Prerrequisitos                          |
-|----------------------------------------|----------|------------------------------------------|
-| Biología Básica                        | 2        | Ninguno                                   |
-| Laboratorio de Biología Básica        | 1        | Biología Básica                          |
-| Orientación Institucional             | 1        | Ninguno                                   |
-| Introducción a la Filosofía           | 3        | Ninguno                                   |
-| Física Básica                          | 4        | Ninguno                                   |
-| Lengua Española Básica I              | 3        | Ninguno                                   |
-| Matemática Básica                     | 4        | Ninguno                                   |
-| Química Básica                         | 3        | Ninguno                                   |
-| Introducción a las Ciencias Sociales  | 3        | Ninguno                                   |
+| Asignatura                           | Créditos | Prerrequisitos  |
+| ------------------------------------ | -------- | --------------- |
+| Biología Básica                      | 2        | Ninguno         |
+| Laboratorio de Biología Básica       | 1        | Biología Básica |
+| Orientación Institucional            | 1        | Ninguno         |
+| Introducción a la Filosofía          | 3        | Ninguno         |
+| Física Básica                        | 4        | Ninguno         |
+| Lengua Española Básica I             | 3        | Ninguno         |
+| Matemática Básica                    | 4        | Ninguno         |
+| Química Básica                       | 3        | Ninguno         |
+| Introducción a las Ciencias Sociales | 3        | Ninguno         |
 
 📌 **Total de créditos:** 24
 
 ---
 
-## 📘 Segundo Semestre – Pre-Médica
+### 📘 Segundo Semestre – Pre-Médica
 
-| Asignatura                             | Créditos | Prerrequisitos                          |
-|----------------------------------------|----------|------------------------------------------|
-| Biofísica                              | 2        | Física Básica, Biología Básica           |
-| Laboratorio de Biofísica               | 1        | Biofísica                                |
-| Educación Física                       | 2        | Ninguno                                   |
-| Fundamentos de Historia Social Dominicana | 3    | Ninguno                                   |
-| Lengua Española Básica II             | 3        | Lengua Española Básica I                |
-| Fundamentos del Desarrollo Cognitivo   | 3        | Ninguno                                   |
-| Química Orgánica                       | 3        | Química Básica                           |
-| Vida en Comunidad                      | 3        | Introducción a las Ciencias Sociales     |
+| Asignatura                                | Créditos | Prerrequisitos                       |
+| ----------------------------------------- | -------- | ------------------------------------ |
+| Biofísica                                 | 2        | Biología Básica, Física Básica       |
+| Laboratorio de Biofísica                  | 1        | Biofísica                            |
+| Educación Física                          | 2        | Ninguno                              |
+| Fundamentos de Historia Social Dominicana | 3        | Ninguno                              |
+| Lengua Española Básica II                 | 3        | Lengua Española Básica I             |
+| Fundamentos del Desarrollo Cognitivo      | 3        | Ninguno                              |
+| Química Orgánica                          | 3        | Química Básica                       |
+| Vida en Comunidad                         | 3        | Introducción a las Ciencias Sociales |
 
 📌 **Total de créditos:** 20
 
 ---
 
-## 📘 Tercer Semestre – Pre-Médica
+### 📘 Tercer Semestre – Pre-Médica
 
-| Asignatura                             | Créditos | Prerrequisitos                          |
-|----------------------------------------|----------|------------------------------------------|
-| Estructuras y Sistemas Anatómicos      | 3        | Biología Básica y su laboratorio         |
-| Laboratorio de Estructuras y Sistemas Anatómicos | 1 | Estructuras y Sistemas Anatómicos |
-| Fundamentos de Ética General           | 3        | Introducción a la Filosofía             |
-| Antropología Aplicada a la Medicina    | 3        | Introducción a las Ciencias Sociales     |
-| Historia de la Cultura Universal       | 2        | Fundamentos de Historia Social Dominicana |
-| Inglés Técnico en Salud I              | 4        | Lengua Española Básica II               |
-| Introducción a la Informática          | 4        | Matemática Básica                        |
-| Bases para el Análisis Biométrico      | 4        | Matemática Básica                        |
+| Asignatura                                       | Créditos | Prerrequisitos                            |
+| ------------------------------------------------ | -------- | ----------------------------------------- |
+| Estructuras y Sistemas Anatómicos                | 3        | Biología Básica y su laboratorio          |
+| Laboratorio de Estructuras y Sistemas Anatómicos | 1        | Estructuras y Sistemas Anatómicos         |
+| Fundamentos de Ética General                     | 3        | Introducción a la Filosofía               |
+| Antropología Aplicada a la Medicina              | 3        | Introducción a las Ciencias Sociales      |
+| Historia de la Cultura Universal                 | 2        | Fundamentos de Historia Social Dominicana |
+| Inglés Técnico en Salud I                        | 4        | Lengua Española Básica II                 |
+| Introducción a la Informática                    | 4        | Matemática Básica                         |
+| Bases para el Análisis Biométrico                | 4        | Matemática Básica                         |
 
 📌 **Total de créditos:** 24
 
 ---
 
-## 📘 Cuarto Semestre – Pre-Médica
+### 📘 Cuarto Semestre – Pre-Médica
 
-| Asignatura                             | Créditos | Prerrequisitos                          |
-|----------------------------------------|----------|------------------------------------------|
-| Fisiología Celular                     | 3        | Química Orgánica, Biología, Biofísica   |
-| Bases Histológicas del Organismo       | 3        | Biología, Laboratorio de Biología        |
-| Laboratorio de Bases Histológicas      | 1        | Bases Histológicas del Organismo         |
-| Inglés Técnico en Salud II             | 4        | Inglés Técnico en Salud I                |
-| Salud y Conducta Humana                | 2        | Ciencias Sociales                        |
-| Laboratorio de Salud y Conducta Humana | 1        | Salud y Conducta Humana                  |
-| Introducción a la Metodología de la Investigación en Salud | 3 | Ninguno                      |
-| Fundamentos de Soporte Vital Básico    | 3        | Anatomía                                  |
-| Tecnologías de Información e Investigación en Salud | 3 | Informática                    |
+| Asignatura                                                 | Créditos | Prerrequisitos                        |
+| ---------------------------------------------------------- | -------- | ------------------------------------- |
+| Fisiología Celular                                         | 3        | Biología, Química Orgánica, Biofísica |
+| Bases Histológicas del Organismo                           | 3        | Biología                              |
+| Laboratorio de Bases Histológicas                          | 1        | Bases Histológicas del Organismo      |
+| Inglés Técnico en Salud II                                 | 4        | Inglés Técnico en Salud I             |
+| Salud y Conducta Humana                                    | 2        | Ciencias Sociales                     |
+| Laboratorio de Salud y Conducta Humana                     | 1        | Salud y Conducta Humana               |
+| Introducción a la Metodología de la Investigación en Salud | 3        | Ninguno                               |
+| Fundamentos de Soporte Vital Básico                        | 3        | Estructuras Anatómicas y Laboratorio  |
+| Tecnologías de Información e Investigación en Salud        | 3        | Introducción a la Informática         |
 
 📌 **Total de créditos:** 23
+
+---
+
+### 📘 Quinto Semestre – Ciclo Básico Médico
+
+| Asignatura                                       | Créditos | Prerrequisitos                                 |
+| ------------------------------------------------ | -------- | ---------------------------------------------- |
+| Genética Médica                                  | 2        | Biología, Química Orgánica, Fisiología Celular |
+| Laboratorio de Genética Médica                   | 1        | Genética Médica                                |
+| Bioquímica I                                     | 4        | Biología, Química Orgánica                     |
+| Laboratorio de Bioquímica I                      | 1        | Bioquímica I                                   |
+| Embriología                                      | 3        | Ninguno                                        |
+| Histología General de Órganos y Sistemas Humanos | 4        | Ninguno                                        |
+| Laboratorio de Histología General                | 2        | Histología General                             |
+| Anatomía Humana I                                | 4        | Ninguno                                        |
+| Laboratorio de Anatomía Humana I                 | 2        | Anatomía Humana I                              |
+| Introducción a la Clínica                        | 3        | Ninguno                                        |
+| Microbiología                                    | 5        | Ninguno                                        |
+| Promoción en Salud                               | 3        | Introducción a la Clínica                      |
+
+📌 **Total de créditos:** 34
+
+---
+
+### 📘 Sexto Semestre – Ciclo Básico Médico
+
+| Asignatura                         | Créditos | Prerrequisitos                 |
+| ---------------------------------- | -------- | ------------------------------ |
+| Bioquímica II                      | 4        | Bioquímica I y su laboratorio  |
+| Laboratorio de Bioquímica II       | 1        | Bioquímica II                  |
+| Fisiología Humana I                | 4        | Fisiología Celular, Biofísica  |
+| Laboratorio de Fisiología Humana I | 1        | Fisiología Humana I            |
+| Anatomía Humana II                 | 4        | Anatomía Humana I              |
+| Laboratorio de Anatomía Humana II  | 2        | Anatomía Humana II             |
+| Psicología Médica                  | 2        | Salud y Conducta Humana        |
+| Semiología Médica                  | 2        | Ninguno                        |
+| Laboratorio de Semiología Médica   | 2        | Semiología Médica              |
+| Parasitología                      | 5        | Anatomía Humana, Microbiología |
+| Salud Colectiva                    | 2        | Ciencias Sociales              |
+| Laboratorio de Salud Colectiva     | 1        | Salud Colectiva                |
+
+📌 **Total de créditos:** 30
+
+---
