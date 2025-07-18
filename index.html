@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Malla Didáctica Medicina - UASD</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Malla Didáctica de Medicina – UASD (Plan 2009-20)</h1>
+    <p>Autora: Britany Eileen Pérez Cárdenas</p>
+    <button onclick="toggleDarkMode()">🌙 Modo Oscuro</button>
+    <button onclick="resetMalla()">🔄 Reiniciar</button>
+    <select id="filterModule" onchange="filterByModule(this.value)">
+      <option value="all">Todos los módulos</option>
+      <option value="Pre-Médica">Pre-Médica</option>
+      <option value="Básico Médico">Básico Médico</option>
+      <option value="Pre-Internado">Pre-Internado</option>
+      <option value="Internado">Internado</option>
+    </select>
+  </header>
+  <main id="malla-container"></main>
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
